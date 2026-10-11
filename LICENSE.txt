@@ -1,0 +1,43 @@
+Citadel License (CL)
+
+Work Information and Template (To be filled in by the Work Owner):
+Work Title: [Title of the Work]
+Composer / Rightsholder: [Artist / Composer Name]
+License Type: Citadel License (CL) - This work is subject to the terms below.
+
+1. Purpose, Scope, and Core Philosophy
+This license is created to ensure that the musical works it covers remain entirely free from commercial concerns and monetary systems, focusing strictly on human craftsmanship and expression. Absolute ownership and composer status remain with the rightful artist. Works under this license may be listened to, downloaded, and used in non-commercial projects by anyone, provided the conditions below are met.
+Exclusive Scope: This license is designed solely and exclusively for musical works (compositions, arrangements, audio recordings, etc.). Non-musical works (software, literary texts, standalone visual arts, etc.) are strictly outside the scope of this license and cannot be licensed under it.
+
+2. Attribution Requirement
+Anyone who uses a work under this license in a secondary project (video, film, game, software, etc.)—other than listening or storing it in a personal archive—or creates a derivative work, is required to clearly and accessibly attribute the original composer's name and state that the work is released under the Citadel License (CL).
+
+3. Absolute Non-Commercial Prohibition and Monetary Restrictions
+No financial gain, whether direct or indirect, may be derived from a work under this license. The work cannot be sold, rented, monetized, or integrated into any monetary flow.
+Platform Restrictions: The work cannot be published through revenue-driven digital distribution channels, streaming platforms (e.g., Spotify, Apple Music), or paid aggregators/distributors.
+Donation and Tip Prohibition: Sharing the work on platforms where donation or tipping mechanisms cannot be completely disabled (e.g., Bandcamp, Patreon), even if optional or voluntary, is strictly prohibited.
+Derivative and Secondary Uses: No monetary flow of any kind is permitted in any third-party project using the work (e.g., video shares, films, games, software, websites). If used on video-sharing platforms (e.g., YouTube), the channel's monetization features must be completely turned off. For films or games, only voluntary expenses incurred during production are acceptable; however, the final product must not generate any income through tickets, sales, subscriptions, advertisements, or donations.
+
+4. Artificial Intelligence Prohibition (Human Labor Requirement)
+The use of any artificial intelligence (AI) tools in the creation, production, or presentation of works under this license is strictly prohibited.
+Composing, arranging, synthesizing, or generating the work, in whole or in part, using AI tools is forbidden.
+No short or long audio samples, instrument libraries, or vocal models created with generative AI may be used within the work.
+The use of AI-based visual generators for cover art, visual materials, and promotional content associated with the work is entirely prohibited. The entire creative process must rely solely on human effort.
+
+5. Derivative Works and License Continuity (Reciprocal Open Licensing Requirement)
+Anyone who creates a derivative work by remixing, re-arranging, sampling, adding new elements to, or incorporating a work under this license into another project must release the resulting derivative work strictly under the exact same terms (Citadel License). The license of derivative works cannot be altered, commercialized, or restricted.
+
+6. Irrevocability and Permanence
+Once a work is published under this license, these licensing terms can never be revoked, modified, or replaced with standard copyright restrictions. The work remains subject to the terms of this license for its entire lifecycle. No individual, including the original composer, may retroactively alter the license type of the work.
+
+7. Originality and Initial Publication Condition
+The composer must verify that the work subjected to this license does not infringe upon any third-party copyright anywhere in the world. A work currently or previously released under a different license or protected by standard copyright cannot be subsequently converted into this license.
+
+8. Breach and Severability of Liability
+If any condition of this license is breached (e.g., commercial use, failure to attribute, inclusion of AI-generated elements, or generating revenue), the breaching party immediately and permanently forfeits all usage rights to the work. The individual who committed the breach is obligated to remove the work from all platforms, and all legal liability rests solely on that person. Breaches committed by third parties do not affect the status of the work itself or the rights of other compliant users.
+
+9. Disclaimer of Warranty and Limitation of Liability
+This license text is provided "as is." Neither the author, creator, editor, contributor, nor publisher of new or modified versions of this license text shall be held liable for any direct, indirect, incidental, or consequential damages, or legal liabilities arising from the use, content, legal enforceability, or third-party disputes involving works published under this license.
+
+10. Independence of Parties
+Applying this license to a work creates no agency, partnership, joint venture, or legal affiliation between the publisher of the work and the author, creator, editor, or contributors of this license text. All rights and obligations under the license exist solely between the copyright holder of the work and the user of that work.
